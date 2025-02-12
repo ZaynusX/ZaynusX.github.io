@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>2024-02-12-部署到远程服务器的烦恼</title>
+      <link href="/2025/02/12/2024-02-12-%E9%83%A8%E7%BD%B2%E5%88%B0%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E7%83%A6%E6%81%BC/"/>
+      <url>/2025/02/12/2024-02-12-%E9%83%A8%E7%BD%B2%E5%88%B0%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E7%83%A6%E6%81%BC/</url>
+      
+        <content type="html"><![CDATA[<p>正在疯狂想要一个既有GitHub，又可以方便的本地同步，还可以用上我的云服务器的方法。<br>虽然说是静态网站不那么苛求同步的速度，但是每一次要手动重复自己之前的操作还是有点伤脑筋的。那些优秀的程序员们想必是不会采用这么低效的方法的。<br>这个博客网站还有很多很多需要优化和更改的地方，也有很多我想要实现的功能。希望可以把这里当作我独特的世界，我独特的小家。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 碎碎念 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Secret</title>
       <link href="/2025/02/12/mimi/"/>
       <url>/2025/02/12/mimi/</url>
@@ -39,7 +64,7 @@
       
         <tags>
             
-            <tag> 感想 </tag>
+            <tag> 碎碎念 </tag>
             
         </tags>
       
