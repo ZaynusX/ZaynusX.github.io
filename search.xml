@@ -1,76 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>2024-02-12-部署到远程服务器的烦恼</title>
-      <link href="/2025/02/12/2024-02-12-%E9%83%A8%E7%BD%B2%E5%88%B0%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E7%83%A6%E6%81%BC/"/>
-      <url>/2025/02/12/2024-02-12-%E9%83%A8%E7%BD%B2%E5%88%B0%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E7%83%A6%E6%81%BC/</url>
-      
-        <content type="html"><![CDATA[<p>正在疯狂想要一个既有GitHub，又可以方便的本地同步，还可以用上我的云服务器的方法。<br>虽然说是静态网站不那么苛求同步的速度，但是每一次要手动重复自己之前的操作还是有点伤脑筋的。那些优秀的程序员们想必是不会采用这么低效的方法的。<br>这个博客网站还有很多很多需要优化和更改的地方，也有很多我想要实现的功能。希望可以把这里当作我独特的世界，我独特的小家。</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>2024-02-12-部署到远程服务器的烦恼</title>
+    <url>/2025/02/12/2024-02-12-%E9%83%A8%E7%BD%B2%E5%88%B0%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E7%83%A6%E6%81%BC/</url>
+    <content><![CDATA[<p>正在疯狂想要一个既有GitHub，又可以方便的本地同步，还可以用上我的云服务器的方法。<br>虽然说是静态网站不那么苛求同步的速度，但是每一次要手动重复自己之前的操作还是有点伤脑筋的。那些优秀的程序员们想必是不会采用这么低效的方法的。<br>这个博客网站还有很多很多需要优化和更改的地方，也有很多我想要实现的功能。希望可以把这里当作我独特的世界，我独特的小家。</p>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 碎碎念 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Secret</title>
-      <link href="/2025/02/12/mimi/"/>
-      <url>/2025/02/12/mimi/</url>
-      
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="01e192f402e314ecb1de803165cc713598c352b89393f2fc7c50b59d2f7f875d">8857952509ef9895f61625fe2d594ef3b689d4518c7f9cb35f7afd2913fbf3135cb397e4278f78af41d0362fe90210362e40b8e0bb3223f1a720a05917decb6ae58ec7b7be0e926b80a38237fe9ab9a5986411d93499e556d47a0f7ac91504e0fdacce4226b7a89bceededd3d89bf612203e35de90b124958a74b27366d8d696b2541c9ba4458245ab6fc80007d06602a55017687e326f21416d3e9623901979f49c0988cdaa43e250c2d80d6e8e54604327dd9df7e1dee6ff6714484ff33cc4</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 作为日记加密 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第一篇文章</title>
-      <link href="/2025/02/12/2025-02-12-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2025/02/12/2025-02-12-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2><p>很高兴拥有自己的个人博客！假期的时间果然是宝贵的，从上周日开始筹备，经过反复试错摸索了三天才出头！<br>希望这次一定要成功！<br>开个好头！<br>域名和SSL证书以及服务器都已经准备好了！<br>投资的金额不是很多，以后有闲钱会加大投入开发更多功能的！</p>]]></content>
-      
-      
+      <tags>
+        <tag>碎碎念</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第一篇文章</title>
+    <url>/2025/02/12/2025-02-12-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2><p>很高兴拥有自己的个人博客！假期的时间果然是宝贵的，从上周日开始筹备，经过反复试错摸索了三天才出头！<br>希望这次一定要成功！<br>开个好头！<br>域名和SSL证书以及服务器都已经准备好了！<br>投资的金额不是很多，以后有闲钱会加大投入开发更多功能的！</p>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 碎碎念 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>碎碎念</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Secret</title>
+    <url>/2025/02/12/mimi/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="01e192f402e314ecb1de803165cc713598c352b89393f2fc7c50b59d2f7f875d">8857952509ef9895f61625fe2d594ef3b689d4518c7f9cb35f7afd2913fbf3135cb397e4278f78af41d0362fe90210362e40b8e0bb3223f1a720a05917decb6ae58ec7b7be0e926b80a38237fe9ab9a5986411d93499e556d47a0f7ac91504e0fdacce4226b7a89bceededd3d89bf612203e35de90b124958a74b27366d8d696b2541c9ba4458245ab6fc80007d06602a55017687e326f21416d3e9623901979f49c0988cdaa43e250c2d80d6e8e54604327dd9df7e1dee6ff6714484ff33cc4</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-xray">
+      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>作为日记加密</tag>
+      </tags>
+  </entry>
 </search>

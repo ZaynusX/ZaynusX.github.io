@@ -262,3 +262,57 @@ h6::before {
     left: 0;
     top: 0;
 }
+
+/* 美化搜索框 */
+#search-popup {
+    background: rgba(255, 255, 255, 0.95); /* 半透明白色背景 */
+    border-radius: 12px; /* 圆角 */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* 柔和阴影 */
+    padding: 20px;
+    max-width: 500px; /* 限制宽度 */
+}
+
+/* 输入框 */
+#search-input {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    outline: none;
+    transition: all 0.3s;
+}
+#search-input:focus {
+    border-color: #90779C; /* 聚焦时蓝色边框 */
+}
+
+/* 关闭按钮 */
+#search-popup .search-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    color: #aaa;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+#search-popup .search-close:hover {
+    color: #90779C;
+}
+
+/* 搜索结果 */
+#search-result {
+    margin-top: 10px;
+    font-size: 14px;
+}
+#search-result a {
+    display: block;
+    padding: 8px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #333;
+    transition: all 0.3s;
+}
+#search-result a:hover {
+    background: #f5f5f5;
+}
