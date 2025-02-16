@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2024-02-12-部署到远程服务器的烦恼</title>
-    <url>/2025/02/12/2024-02-12-%E9%83%A8%E7%BD%B2%E5%88%B0%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E7%83%A6%E6%81%BC/</url>
-    <content><![CDATA[<p>正在疯狂想要一个既有GitHub，又可以方便的本地同步，还可以用上我的云服务器的方法。<br>虽然说是静态网站不那么苛求同步的速度，但是每一次要手动重复自己之前的操作还是有点伤脑筋的。那些优秀的程序员们想必是不会采用这么低效的方法的。<br>这个博客网站还有很多很多需要优化和更改的地方，也有很多我想要实现的功能。希望可以把这里当作我独特的世界，我独特的小家。</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第一篇文章</title>
     <url>/2025/02/12/2025-02-12-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2><p>很高兴拥有自己的个人博客！假期的时间果然是宝贵的，从上周日开始筹备，经过反复试错摸索了三天才出头！<br>希望这次一定要成功！<br>开个好头！<br>域名和SSL证书以及服务器都已经准备好了！<br>投资的金额不是很多，以后有闲钱会加大投入开发更多功能的！</p>
@@ -25,21 +13,15 @@
       </tags>
   </entry>
   <entry>
-    <title>ICPC相关工作日志1</title>
-    <url>/2025/02/16/ICPC%E7%9B%B8%E5%85%B3%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%971/</url>
-    <content><![CDATA[<h1 id="2024年-ICPC、蓝桥杯、其他训练赛日程"><a href="#2024年-ICPC、蓝桥杯、其他训练赛日程" class="headerlink" title="2024年 ICPC、蓝桥杯、其他训练赛日程"></a>2024年 ICPC、蓝桥杯、其他训练赛日程</h1><h3 id="信息收集"><a href="#信息收集" class="headerlink" title="信息收集"></a>信息收集</h3><p>ICPC比赛日程（第49届，2024年）：<br>第48届（2023） ICPC EC Final 2024年1月12-14日 上海大学<br>湖北邀请赛 2024年5月1-2日 武汉大学<br>陕西邀请赛 2024年5月18-19日 西北工业大学<br>云南邀请赛 2024年5月25-26日 云南大学<br>丝绸之路邀请赛 2024年6月8-9日 宁夏理工学院<br>第一次网络选拔赛 2024年9月15日<br>第二次网络选拔赛 2024年9月21日<br>成都站 2024年10月26-27日 电子科技大学<br>南京站 2024年11月2-3日 南京航空航天大学<br>杭州站 2024年11月9-10日 杭州师范大学<br>上海站 2024年11月16-17日 上海大学<br>沈阳站 2024年11月23-24日 东北大学<br>昆明站 2024年11月30日-12月1日 云南大学<br>第49届（2024） ICPC EC Final 2024年12月14-15日 西北工业大学<br>香港站 2024年12月21-22日 香港理工大学</p>
-<p>院校报名时间：2023年10月7日——2023年12月15日<br>省赛：2024年4月13日 9:00-13:00（软件类）&#x2F;9:00-14:00（电子类）<br>国赛：2024年6月1日 9:00-13:00（软件类）&#x2F;9:00-14:00（电子类）</p>
-<p>2024 牛客暑期多校训练营 2024年6月19日18:00 前报名，可享受早鸟价500元每队，此后报名费为800元每队。</p>
-<h3 id="ICPC相关数据分析"><a href="#ICPC相关数据分析" class="headerlink" title="ICPC相关数据分析"></a>ICPC相关数据分析</h3><p>for 2025<br><strong>邀请赛</strong>：4场  线下 单队预算1500元。预计参与队伍数量6，报名费预算9000元。<br><strong>网络预选赛</strong>：2场  线上  单场单队预算100元。预计参与队伍数量4，报名费预算800元。<br><strong>牛客暑期多校训练营</strong>：1场 线上 单队预算500<del>800元。预计队伍数量2</del>3队，总预算1500<del>1600元。<br><strong>现场赛场次</strong>：6场 线下 预计名额数量2</del>4队 单队预算1500元。（取3）</p>
-<p>总计如下：<br>线下赛报名费预算：13500元（比赛场次：9，单场费用：1500.）<br>线下赛差旅费车票预算：31000元（往返车票单人价格：1000，参赛选手人次：27，带队老师人次：4~5）<br>线下赛差旅费住宿预算：18600元（单人单天价格：300，住宿天数：2，人次：31（参考上））<br>线下赛差旅费餐费预算：6975元（比赛在外天数3，每人每天餐费75元，人次：31）<br>线上赛报名费：2400元（网络预选赛800+牛客暑期训练1600）</p>
-<p>count&#x3D;72475元</p>
-<h3 id="蓝桥杯相关数据分析"><a href="#蓝桥杯相关数据分析" class="headerlink" title="蓝桥杯相关数据分析"></a>蓝桥杯相关数据分析</h3><p>今年报名情况：软件赛-个人赛153人，网络安全4人，电子赛-个人赛5人，视觉艺术设计赛1个团队（2人）<br>如果考虑报名费全部报销，省赛名额应为：164人 单价300元，总计49200元。<br>目前提供的省赛报销预算偏少。</p>
+    <title>2024-02-12-部署到远程服务器的烦恼</title>
+    <url>/2025/02/12/2024-02-12-%E9%83%A8%E7%BD%B2%E5%88%B0%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E7%83%A6%E6%81%BC/</url>
+    <content><![CDATA[<p>正在疯狂想要一个既有GitHub，又可以方便的本地同步，还可以用上我的云服务器的方法。<br>虽然说是静态网站不那么苛求同步的速度，但是每一次要手动重复自己之前的操作还是有点伤脑筋的。那些优秀的程序员们想必是不会采用这么低效的方法的。<br>这个博客网站还有很多很多需要优化和更改的地方，也有很多我想要实现的功能。希望可以把这里当作我独特的世界，我独特的小家。</p>
 ]]></content>
       <categories>
-        <category>工作</category>
+        <category>日常</category>
       </categories>
       <tags>
-        <tag>社团管理</tag>
+        <tag>碎碎念</tag>
       </tags>
   </entry>
   <entry>
@@ -290,6 +272,198 @@
       </tags>
   </entry>
   <entry>
+    <title>ICPC相关工作日志1</title>
+    <url>/2025/02/16/ICPC%E7%9B%B8%E5%85%B3%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%971/</url>
+    <content><![CDATA[<h1 id="2024年-ICPC、蓝桥杯、其他训练赛日程"><a href="#2024年-ICPC、蓝桥杯、其他训练赛日程" class="headerlink" title="2024年 ICPC、蓝桥杯、其他训练赛日程"></a>2024年 ICPC、蓝桥杯、其他训练赛日程</h1><h3 id="信息收集"><a href="#信息收集" class="headerlink" title="信息收集"></a>信息收集</h3><p>ICPC比赛日程（第49届，2024年）：<br>第48届（2023） ICPC EC Final 2024年1月12-14日 上海大学<br>湖北邀请赛 2024年5月1-2日 武汉大学<br>陕西邀请赛 2024年5月18-19日 西北工业大学<br>云南邀请赛 2024年5月25-26日 云南大学<br>丝绸之路邀请赛 2024年6月8-9日 宁夏理工学院<br>第一次网络选拔赛 2024年9月15日<br>第二次网络选拔赛 2024年9月21日<br>成都站 2024年10月26-27日 电子科技大学<br>南京站 2024年11月2-3日 南京航空航天大学<br>杭州站 2024年11月9-10日 杭州师范大学<br>上海站 2024年11月16-17日 上海大学<br>沈阳站 2024年11月23-24日 东北大学<br>昆明站 2024年11月30日-12月1日 云南大学<br>第49届（2024） ICPC EC Final 2024年12月14-15日 西北工业大学<br>香港站 2024年12月21-22日 香港理工大学</p>
+<p>院校报名时间：2023年10月7日——2023年12月15日<br>省赛：2024年4月13日 9:00-13:00（软件类）&#x2F;9:00-14:00（电子类）<br>国赛：2024年6月1日 9:00-13:00（软件类）&#x2F;9:00-14:00（电子类）</p>
+<p>2024 牛客暑期多校训练营 2024年6月19日18:00 前报名，可享受早鸟价500元每队，此后报名费为800元每队。</p>
+<h3 id="ICPC相关数据分析"><a href="#ICPC相关数据分析" class="headerlink" title="ICPC相关数据分析"></a>ICPC相关数据分析</h3><p>for 2025<br><strong>邀请赛</strong>：4场  线下 单队预算1500元。预计参与队伍数量6，报名费预算9000元。<br><strong>网络预选赛</strong>：2场  线上  单场单队预算100元。预计参与队伍数量4，报名费预算800元。<br><strong>牛客暑期多校训练营</strong>：1场 线上 单队预算500<del>800元。预计队伍数量2</del>3队，总预算1500<del>1600元。<br><strong>现场赛场次</strong>：6场 线下 预计名额数量2</del>4队 单队预算1500元。（取3）</p>
+<p>总计如下：<br>线下赛报名费预算：13500元（比赛场次：9，单场费用：1500.）<br>线下赛差旅费车票预算：31000元（往返车票单人价格：1000，参赛选手人次：27，带队老师人次：4~5）<br>线下赛差旅费住宿预算：18600元（单人单天价格：300，住宿天数：2，人次：31（参考上））<br>线下赛差旅费餐费预算：6975元（比赛在外天数3，每人每天餐费75元，人次：31）<br>线上赛报名费：2400元（网络预选赛800+牛客暑期训练1600）</p>
+<p>count&#x3D;72475元</p>
+<h3 id="蓝桥杯相关数据分析"><a href="#蓝桥杯相关数据分析" class="headerlink" title="蓝桥杯相关数据分析"></a>蓝桥杯相关数据分析</h3><p>今年报名情况：软件赛-个人赛153人，网络安全4人，电子赛-个人赛5人，视觉艺术设计赛1个团队（2人）<br>如果考虑报名费全部报销，省赛名额应为：164人 单价300元，总计49200元。<br>目前提供的省赛报销预算偏少。</p>
+]]></content>
+      <categories>
+        <category>工作</category>
+      </categories>
+      <tags>
+        <tag>社团管理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>再读《只缘身在此山中》</title>
+    <url>/2025/02/16/%E5%86%8D%E8%AF%BB%E3%80%8A%E5%8F%AA%E7%BC%98%E8%BA%AB%E5%9C%A8%E6%AD%A4%E5%B1%B1%E4%B8%AD%E3%80%8B/</url>
+    <content><![CDATA[<p>《只缘身在此山中》像一卷被云雾浸透的山水长卷，简媜以墨色淋漓的笔锋，勾勒出生命与天地共振的禅意秘境。三十余篇散文，仿若三十余枚被风铃摇碎的月光，散落在五重山门之后，每一片都折射出不同维度的灵光。</p>
+<p>她写自然，并非旁观者冷眼描摹，而是将肉身化为山岚，魂魄凝作霜雪，与万物共呼吸。山寺檐角垂落的月色是眠床，岩隙渗出的清泉是琼浆，一草一木皆成修行道场。当“行住坐卧”四字被拆解成止水之风、苍松之姿、钟鼓之声与无箭之弓，规矩不再是桎梏，反化作肉身与天地同频的韵律。这般境界，恰似古琴弦上流淌的泛音，须以全副心神震颤才能捕捉。</p>
+<p>写竹一节尤见深意。竹管里藏着的何止年轮？分明是千万代拓荒者以血汗浇铸的史诗。青竹挺立如笔，将开山者的足印刻进地脉，可当指尖抚过溜滑竹节，那些斑驳往事已化作春泥，在根系深处酝酿新的轮回。这种对历史的温柔凝视，如同将青铜鼎上的铭文浸入溪流，任锈迹化作粼粼波光。</p>
+<p>最惊艳是写情缘。她把情愫喻作蜷缩在方寸之地的幼兽，而缘分是布满天罗地网的棋局。男女情事在她笔下既非痴缠亦非绝决，倒像两株隔山相望的树，根系在地底交错却永不相逢。那句“缘若在却以无缘了篇”，仿佛将整部《红楼梦》的宿命感凝成一颗琥珀，透着宿慧的凉意。</p>
+<p>这部散文集不是简单的风物志，而是将生命锻打成禅杖的修行录。简媜以文字为舟筏，载着读者穿越迷雾重重的红尘，最终停泊在“无我”的彼岸——原来我们皆是天地经文里的一个逗点，在呼吸吐纳间，完成对永恒刹那的朝圣。</p>
+<blockquote>
+<p>山中若有眠，枕的是月，盖的是满天星辰。<br>夜中若渴，饮的是银瓶泻浆。<br>月不曾瘦，瘦的是辗转反侧的情思。<br>星不曾灭，灭的是阑珊灯火。<br>一片寂静，不该独醒。</p>
+</blockquote>
+<blockquote>
+<p>我甘愿是一个无面目的人，来此认清自己的面目。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>读书</category>
+      </categories>
+      <tags>
+        <tag>文学性读物</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>并查集</title>
+    <url>/2025/02/16/%E5%B9%B6%E6%9F%A5%E9%9B%86/</url>
+    <content><![CDATA[<p><strong>并查集（Disjoint Set Union，DSU）</strong> 是一种用于管理元素分组的数据结构，主要支持两种操作：</p>
+<ol>
+<li><strong>查找（Find）</strong>：确定某个元素属于哪个集合。</li>
+<li><strong>合并（Union）</strong>：将两个集合合并为一个集合。</li>
+</ol>
+<p>并查集广泛应用于解决动态连通性问题，例如判断图中的两个节点是否连通、统计连通分量等。</p>
+<hr>
+<h3 id="1-核心思想"><a href="#1-核心思想" class="headerlink" title="1. 核心思想"></a>1. <strong>核心思想</strong></h3><p>并查集的核心思想是用一个<strong>父节点数组</strong>来表示每个元素的所属集合。初始时，每个元素都是一个独立的集合，父节点指向自己。通过路径压缩和按秩合并等优化技术，可以高效地支持查找和合并操作。</p>
+<hr>
+<h3 id="2-基本操作"><a href="#2-基本操作" class="headerlink" title="2. 基本操作"></a>2. <strong>基本操作</strong></h3><h4 id="（1）初始化"><a href="#（1）初始化" class="headerlink" title="（1）初始化"></a>（1）初始化</h4><ul>
+<li>每个元素初始时都是一个独立的集合，父节点指向自己。</li>
+<li>例如，有 5 个元素：<code>[0, 1, 2, 3, 4]</code>，初始化后父节点数组为 <code>parent = [0, 1, 2, 3, 4]</code>。</li>
+</ul>
+<h4 id="（2）查找（Find）"><a href="#（2）查找（Find）" class="headerlink" title="（2）查找（Find）"></a>（2）查找（Find）</h4><ul>
+<li>查找某个元素所属的集合（即根节点）。</li>
+<li>通过递归或迭代的方式，沿着父节点向上查找，直到找到根节点。</li>
+<li><strong>路径压缩优化</strong>：在查找过程中，将路径上的所有节点直接指向根节点，以加快后续查找速度。</li>
+</ul>
+<h4 id="（3）合并（Union）"><a href="#（3）合并（Union）" class="headerlink" title="（3）合并（Union）"></a>（3）合并（Union）</h4><ul>
+<li>将两个元素所在的集合合并为一个集合。</li>
+<li>先找到两个元素的根节点，然后将其中一个根节点的父节点指向另一个根节点。</li>
+<li><strong>按秩合并优化</strong>：在合并时，将较小的树合并到较大的树上，以保持树的平衡。</li>
+</ul>
+<hr>
+<h3 id="3-并查集的实现"><a href="#3-并查集的实现" class="headerlink" title="3. 并查集的实现"></a>3. <strong>并查集的实现</strong></h3><p>以下是并查集的 Python 实现，包含路径压缩和按秩合并优化：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">UnionFind</span>:</span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">__init__</span>(<span class="params">self, n</span>):</span><br><span class="line">        <span class="comment"># 初始化父节点数组和秩数组</span></span><br><span class="line">        <span class="variable language_">self</span>.parent = <span class="built_in">list</span>(<span class="built_in">range</span>(n))  <span class="comment"># 每个元素的父节点初始为自己</span></span><br><span class="line">        <span class="variable language_">self</span>.rank = [<span class="number">1</span>] * n  <span class="comment"># 每个集合的秩初始为 1</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">find</span>(<span class="params">self, x</span>):</span><br><span class="line">        <span class="comment"># 查找根节点，并进行路径压缩</span></span><br><span class="line">        <span class="keyword">if</span> <span class="variable language_">self</span>.parent[x] != x:</span><br><span class="line">            <span class="variable language_">self</span>.parent[x] = <span class="variable language_">self</span>.find(<span class="variable language_">self</span>.parent[x])  <span class="comment"># 路径压缩</span></span><br><span class="line">        <span class="keyword">return</span> <span class="variable language_">self</span>.parent[x]</span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">union</span>(<span class="params">self, x, y</span>):</span><br><span class="line">        <span class="comment"># 合并两个集合</span></span><br><span class="line">        root_x = <span class="variable language_">self</span>.find(x)</span><br><span class="line">        root_y = <span class="variable language_">self</span>.find(y)</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">if</span> root_x != root_y:</span><br><span class="line">            <span class="comment"># 按秩合并</span></span><br><span class="line">            <span class="keyword">if</span> <span class="variable language_">self</span>.rank[root_x] &gt; <span class="variable language_">self</span>.rank[root_y]:</span><br><span class="line">                <span class="variable language_">self</span>.parent[root_y] = root_x</span><br><span class="line">            <span class="keyword">elif</span> <span class="variable language_">self</span>.rank[root_x] &lt; <span class="variable language_">self</span>.rank[root_y]:</span><br><span class="line">                <span class="variable language_">self</span>.parent[root_x] = root_y</span><br><span class="line">            <span class="keyword">else</span>:</span><br><span class="line">                <span class="variable language_">self</span>.parent[root_y] = root_x</span><br><span class="line">                <span class="variable language_">self</span>.rank[root_x] += <span class="number">1</span></span><br></pre></td></tr></table></figure>
+
+<hr>
+<h3 id="4-并查集的应用场景"><a href="#4-并查集的应用场景" class="headerlink" title="4. 并查集的应用场景"></a>4. <strong>并查集的应用场景</strong></h3><ol>
+<li><p><strong>动态连通性问题</strong>：</p>
+<ul>
+<li>判断两个节点是否连通。</li>
+<li>统计图中的连通分量。</li>
+</ul>
+</li>
+<li><p><strong>最小生成树算法（Kruskal 算法）</strong>：</p>
+<ul>
+<li>用于判断边的两个端点是否属于同一集合。</li>
+</ul>
+</li>
+<li><p><strong>朋友圈问题</strong>：</p>
+<ul>
+<li>给定一组朋友关系，判断有多少个朋友圈。</li>
+</ul>
+</li>
+<li><p><strong>图像处理</strong>：</p>
+<ul>
+<li>用于像素连通区域的标记。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="5-并查集的时间复杂度"><a href="#5-并查集的时间复杂度" class="headerlink" title="5. 并查集的时间复杂度"></a>5. <strong>并查集的时间复杂度</strong></h3><ul>
+<li><strong>初始化</strong>：O(n)，其中 n 是元素个数。</li>
+<li><strong>查找（Find）</strong>：接近 O(1)，经过路径压缩后，查找操作的时间复杂度接近常数。</li>
+<li><strong>合并（Union）</strong>：接近 O(1)，经过按秩合并优化后，合并操作的时间复杂度接近常数。</li>
+</ul>
+<hr>
+<h3 id="6-并查集的优化"><a href="#6-并查集的优化" class="headerlink" title="6. 并查集的优化"></a>6. <strong>并查集的优化</strong></h3><ol>
+<li><p><strong>路径压缩</strong>：</p>
+<ul>
+<li>在查找过程中，将路径上的所有节点直接指向根节点，以加快后续查找速度。</li>
+</ul>
+</li>
+<li><p><strong>按秩合并</strong>：</p>
+<ul>
+<li>在合并时，将较小的树合并到较大的树上，以保持树的平衡，避免树过高。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="7-并查集的经典问题"><a href="#7-并查集的经典问题" class="headerlink" title="7. 并查集的经典问题"></a>7. <strong>并查集的经典问题</strong></h3><h4 id="（1）判断图中是否有环"><a href="#（1）判断图中是否有环" class="headerlink" title="（1）判断图中是否有环"></a>（1）判断图中是否有环</h4><ul>
+<li>遍历图中的每条边，如果两个端点属于同一集合，则说明存在环。</li>
+</ul>
+<h4 id="（2）统计连通分量"><a href="#（2）统计连通分量" class="headerlink" title="（2）统计连通分量"></a>（2）统计连通分量</h4><ul>
+<li>遍历所有节点，统计不同根节点的个数。</li>
+</ul>
+<h4 id="（3）朋友圈问题"><a href="#（3）朋友圈问题" class="headerlink" title="（3）朋友圈问题"></a>（3）朋友圈问题</h4><ul>
+<li>给定一组朋友关系，判断有多少个朋友圈（连通分量）。</li>
+</ul>
+<hr>
+<h3 id="8-代码示例：朋友圈问题"><a href="#8-代码示例：朋友圈问题" class="headerlink" title="8. 代码示例：朋友圈问题"></a>8. <strong>代码示例：朋友圈问题</strong></h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">UnionFind</span>:</span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">__init__</span>(<span class="params">self, n</span>):</span><br><span class="line">        <span class="variable language_">self</span>.parent = <span class="built_in">list</span>(<span class="built_in">range</span>(n))</span><br><span class="line">        <span class="variable language_">self</span>.rank = [<span class="number">1</span>] * n</span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">find</span>(<span class="params">self, x</span>):</span><br><span class="line">        <span class="keyword">if</span> <span class="variable language_">self</span>.parent[x] != x:</span><br><span class="line">            <span class="variable language_">self</span>.parent[x] = <span class="variable language_">self</span>.find(<span class="variable language_">self</span>.parent[x])</span><br><span class="line">        <span class="keyword">return</span> <span class="variable language_">self</span>.parent[x]</span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">union</span>(<span class="params">self, x, y</span>):</span><br><span class="line">        root_x = <span class="variable language_">self</span>.find(x)</span><br><span class="line">        root_y = <span class="variable language_">self</span>.find(y)</span><br><span class="line">        <span class="keyword">if</span> root_x != root_y:</span><br><span class="line">            <span class="keyword">if</span> <span class="variable language_">self</span>.rank[root_x] &gt; <span class="variable language_">self</span>.rank[root_y]:</span><br><span class="line">                <span class="variable language_">self</span>.parent[root_y] = root_x</span><br><span class="line">            <span class="keyword">elif</span> <span class="variable language_">self</span>.rank[root_x] &lt; <span class="variable language_">self</span>.rank[root_y]:</span><br><span class="line">                <span class="variable language_">self</span>.parent[root_x] = root_y</span><br><span class="line">            <span class="keyword">else</span>:</span><br><span class="line">                <span class="variable language_">self</span>.parent[root_y] = root_x</span><br><span class="line">                <span class="variable language_">self</span>.rank[root_x] += <span class="number">1</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">find_circle_num</span>(<span class="params">M</span>):</span><br><span class="line">    n = <span class="built_in">len</span>(M)</span><br><span class="line">    uf = UnionFind(n)</span><br><span class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(n):</span><br><span class="line">        <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(i + <span class="number">1</span>, n):</span><br><span class="line">            <span class="keyword">if</span> M[i][j] == <span class="number">1</span>:</span><br><span class="line">                uf.union(i, j)</span><br><span class="line">    <span class="comment"># 统计根节点的个数</span></span><br><span class="line">    <span class="keyword">return</span> <span class="built_in">len</span>(<span class="built_in">set</span>(uf.find(i) <span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(n))</span><br><span class="line"></span><br><span class="line"><span class="comment"># 示例</span></span><br><span class="line">M = [</span><br><span class="line">    [<span class="number">1</span>, <span class="number">1</span>, <span class="number">0</span>],</span><br><span class="line">    [<span class="number">1</span>, <span class="number">1</span>, <span class="number">0</span>],</span><br><span class="line">    [<span class="number">0</span>, <span class="number">0</span>, <span class="number">1</span>]</span><br><span class="line">]</span><br><span class="line"><span class="built_in">print</span>(find_circle_num(M))  <span class="comment"># 输出: 2</span></span><br></pre></td></tr></table></figure>
+
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>并查集是一种高效管理分组的数据结构，核心操作是查找和合并。通过路径压缩和按秩合并优化，可以显著提高性能。它在动态连通性问题、最小生成树算法、朋友圈问题等场景中有广泛应用。</p>
+<hr>
+<p>以下是使用 C++ 实现的并查集代码，包含路径压缩和按秩合并优化：</p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;vector&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="keyword">class</span> <span class="title class_">UnionFind</span> &#123;</span><br><span class="line"><span class="keyword">private</span>:</span><br><span class="line">    vector&lt;<span class="type">int</span>&gt; parent; <span class="comment">// 父节点数组</span></span><br><span class="line">    vector&lt;<span class="type">int</span>&gt; rank;   <span class="comment">// 秩数组</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="comment">// 构造函数，初始化并查集</span></span><br><span class="line">    <span class="built_in">UnionFind</span>(<span class="type">int</span> n) &#123;</span><br><span class="line">        parent.<span class="built_in">resize</span>(n);</span><br><span class="line">        rank.<span class="built_in">resize</span>(n, <span class="number">1</span>); <span class="comment">// 初始时每个集合的秩为 1</span></span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; n; i++) &#123;</span><br><span class="line">            parent[i] = i; <span class="comment">// 每个元素的父节点初始为自己</span></span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 查找操作，带路径压缩</span></span><br><span class="line">    <span class="function"><span class="type">int</span> <span class="title">find</span><span class="params">(<span class="type">int</span> x)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (parent[x] != x) &#123;</span><br><span class="line">            parent[x] = <span class="built_in">find</span>(parent[x]); <span class="comment">// 路径压缩</span></span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> parent[x];</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 合并操作，带按秩合并</span></span><br><span class="line">    <span class="function"><span class="type">void</span> <span class="title">unionSets</span><span class="params">(<span class="type">int</span> x, <span class="type">int</span> y)</span> </span>&#123;</span><br><span class="line">        <span class="type">int</span> rootX = <span class="built_in">find</span>(x);</span><br><span class="line">        <span class="type">int</span> rootY = <span class="built_in">find</span>(y);</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">if</span> (rootX != rootY) &#123;</span><br><span class="line">            <span class="comment">// 按秩合并</span></span><br><span class="line">            <span class="keyword">if</span> (rank[rootX] &gt; rank[rootY]) &#123;</span><br><span class="line">                parent[rootY] = rootX;</span><br><span class="line">            &#125; <span class="keyword">else</span> <span class="keyword">if</span> (rank[rootX] &lt; rank[rootY]) &#123;</span><br><span class="line">                parent[rootX] = rootY;</span><br><span class="line">            &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">                parent[rootY] = rootX;</span><br><span class="line">                rank[rootX]++;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 判断两个元素是否属于同一集合</span></span><br><span class="line">    <span class="function"><span class="type">bool</span> <span class="title">isConnected</span><span class="params">(<span class="type">int</span> x, <span class="type">int</span> y)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="built_in">find</span>(x) == <span class="built_in">find</span>(y);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</span><br><span class="line">    <span class="type">int</span> n = <span class="number">5</span>; <span class="comment">// 元素个数</span></span><br><span class="line">    <span class="function">UnionFind <span class="title">uf</span><span class="params">(n)</span></span>;</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 合并操作</span></span><br><span class="line">    uf.<span class="built_in">unionSets</span>(<span class="number">0</span>, <span class="number">1</span>);</span><br><span class="line">    uf.<span class="built_in">unionSets</span>(<span class="number">2</span>, <span class="number">3</span>);</span><br><span class="line">    uf.<span class="built_in">unionSets</span>(<span class="number">1</span>, <span class="number">4</span>);</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 判断是否连通</span></span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;0 and 4 are connected: &quot;</span> &lt;&lt; uf.<span class="built_in">isConnected</span>(<span class="number">0</span>, <span class="number">4</span>) &lt;&lt; endl; <span class="comment">// 输出: 1 (true)</span></span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;2 and 4 are connected: &quot;</span> &lt;&lt; uf.<span class="built_in">isConnected</span>(<span class="number">2</span>, <span class="number">4</span>) &lt;&lt; endl; <span class="comment">// 输出: 0 (false)</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h3 id="代码说明"><a href="#代码说明" class="headerlink" title="代码说明"></a>代码说明</h3><ol>
+<li><p><strong>初始化</strong>：</p>
+<ul>
+<li><code>parent</code> 数组存储每个元素的父节点，初始时每个元素的父节点是自己。</li>
+<li><code>rank</code> 数组存储每个集合的秩（树的高度），初始时为 1。</li>
+</ul>
+</li>
+<li><p><strong>查找操作（<code>find</code>）</strong>：</p>
+<ul>
+<li>通过递归查找根节点，并在查找过程中进行路径压缩，将路径上的所有节点直接指向根节点。</li>
+</ul>
+</li>
+<li><p><strong>合并操作（<code>unionSets</code>）</strong>：</p>
+<ul>
+<li>找到两个元素的根节点，按秩合并（将较小的树合并到较大的树上）。</li>
+</ul>
+</li>
+<li><p><strong>判断连通性（<code>isConnected</code>）</strong>：</p>
+<ul>
+<li>判断两个元素的根节点是否相同。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="示例运行"><a href="#示例运行" class="headerlink" title="示例运行"></a>示例运行</h3><p>输入：</p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span> n = <span class="number">5</span>;</span><br><span class="line"><span class="function">UnionFind <span class="title">uf</span><span class="params">(n)</span></span>;</span><br><span class="line">uf.<span class="built_in">unionSets</span>(<span class="number">0</span>, <span class="number">1</span>);</span><br><span class="line">uf.<span class="built_in">unionSets</span>(<span class="number">2</span>, <span class="number">3</span>);</span><br><span class="line">uf.<span class="built_in">unionSets</span>(<span class="number">1</span>, <span class="number">4</span>);</span><br></pre></td></tr></table></figure>
+
+<p>输出：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">0 and 4 are connected: 1</span><br><span class="line">2 and 4 are connected: 0</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h3 id="并查集的应用"><a href="#并查集的应用" class="headerlink" title="并查集的应用"></a>并查集的应用</h3><ol>
+<li><p><strong>动态连通性问题</strong>：</p>
+<ul>
+<li>判断两个节点是否连通。</li>
+<li>统计连通分量。</li>
+</ul>
+</li>
+<li><p><strong>最小生成树算法（Kruskal 算法）</strong>：</p>
+<ul>
+<li>用于判断边的两个端点是否属于同一集合。</li>
+</ul>
+</li>
+<li><p><strong>朋友圈问题</strong>：</p>
+<ul>
+<li>给定一组朋友关系，判断有多少个朋友圈。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="总结-1"><a href="#总结-1" class="headerlink" title="总结"></a>总结</h3><p>并查集是一种高效管理分组的数据结构，核心操作是查找和合并。通过路径压缩和按秩合并优化，可以显著提高性能。以上代码是 C++ 实现的标准模板，适用于大多数并查集相关的问题。</p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>算法知识点补偿</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>读书笔记《暗淡蓝点》</title>
     <url>/2025/02/15/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%8A%E6%9A%97%E6%B7%A1%E8%93%9D%E7%82%B9%E3%80%8B/</url>
     <content><![CDATA[<p>作者：【美国】卡尔 · 萨根</p>
@@ -354,28 +528,6 @@
       </categories>
       <tags>
         <tag>开发</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>再读《只缘身在此山中》</title>
-    <url>/2025/02/16/%E5%86%8D%E8%AF%BB%E3%80%8A%E5%8F%AA%E7%BC%98%E8%BA%AB%E5%9C%A8%E6%AD%A4%E5%B1%B1%E4%B8%AD%E3%80%8B/</url>
-    <content><![CDATA[<p>《只缘身在此山中》像一卷被云雾浸透的山水长卷，简媜以墨色淋漓的笔锋，勾勒出生命与天地共振的禅意秘境。三十余篇散文，仿若三十余枚被风铃摇碎的月光，散落在五重山门之后，每一片都折射出不同维度的灵光。</p>
-<p>她写自然，并非旁观者冷眼描摹，而是将肉身化为山岚，魂魄凝作霜雪，与万物共呼吸。山寺檐角垂落的月色是眠床，岩隙渗出的清泉是琼浆，一草一木皆成修行道场。当“行住坐卧”四字被拆解成止水之风、苍松之姿、钟鼓之声与无箭之弓，规矩不再是桎梏，反化作肉身与天地同频的韵律。这般境界，恰似古琴弦上流淌的泛音，须以全副心神震颤才能捕捉。</p>
-<p>写竹一节尤见深意。竹管里藏着的何止年轮？分明是千万代拓荒者以血汗浇铸的史诗。青竹挺立如笔，将开山者的足印刻进地脉，可当指尖抚过溜滑竹节，那些斑驳往事已化作春泥，在根系深处酝酿新的轮回。这种对历史的温柔凝视，如同将青铜鼎上的铭文浸入溪流，任锈迹化作粼粼波光。</p>
-<p>最惊艳是写情缘。她把情愫喻作蜷缩在方寸之地的幼兽，而缘分是布满天罗地网的棋局。男女情事在她笔下既非痴缠亦非绝决，倒像两株隔山相望的树，根系在地底交错却永不相逢。那句“缘若在却以无缘了篇”，仿佛将整部《红楼梦》的宿命感凝成一颗琥珀，透着宿慧的凉意。</p>
-<p>这部散文集不是简单的风物志，而是将生命锻打成禅杖的修行录。简媜以文字为舟筏，载着读者穿越迷雾重重的红尘，最终停泊在“无我”的彼岸——原来我们皆是天地经文里的一个逗点，在呼吸吐纳间，完成对永恒刹那的朝圣。</p>
-<blockquote>
-<p>山中若有眠，枕的是月，盖的是满天星辰。<br>夜中若渴，饮的是银瓶泻浆。<br>月不曾瘦，瘦的是辗转反侧的情思。<br>星不曾灭，灭的是阑珊灯火。<br>一片寂静，不该独醒。</p>
-</blockquote>
-<blockquote>
-<p>我甘愿是一个无面目的人，来此认清自己的面目。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>读书</category>
-      </categories>
-      <tags>
-        <tag>文学性读物</tag>
       </tags>
   </entry>
 </search>
